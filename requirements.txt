@@ -1,0 +1,2 @@
+pandas==1.3.3
+synthcity==1.2.3
